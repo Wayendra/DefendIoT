@@ -57,7 +57,7 @@ Python MQTT Collector
 - Flame Sensor
 - LEDs
 - Breadboard
-- Jumper Wires
+- Jumper Wiress
 
 ---
 
